@@ -1,0 +1,20 @@
+C:\Users\HOGAR-PC\source\repos\EnvioCorreo\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\HOGAR-PC\source\repos\EnvioCorreo\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\HOGAR-PC\source\repos\EnvioCorreo\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\HOGAR-PC\source\repos\EnvioCorreo\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\HOGAR-PC\source\repos\EnvioCorreo\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\HOGAR-PC\source\repos\EnvioCorreo\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\HOGAR-PC\source\repos\EnvioCorreo\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\HOGAR-PC\source\repos\EnvioCorreo\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\HOGAR-PC\source\repos\EnvioCorreo\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\HOGAR-PC\source\repos\EnvioCorreo\Proyecto\obj\Debug\Proyecto.pdb
+D:\WorkSpaceAD\YOUTUBE\012_FUNCIONADAD ENVIAR CORREO V2\EnvioCorreo\Proyecto\bin\Debug\Proyecto.exe.config
+D:\WorkSpaceAD\YOUTUBE\012_FUNCIONADAD ENVIAR CORREO V2\EnvioCorreo\Proyecto\bin\Debug\Proyecto.exe
+D:\WorkSpaceAD\YOUTUBE\012_FUNCIONADAD ENVIAR CORREO V2\EnvioCorreo\Proyecto\bin\Debug\Proyecto.pdb
+D:\WorkSpaceAD\YOUTUBE\012_FUNCIONADAD ENVIAR CORREO V2\EnvioCorreo\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\012_FUNCIONADAD ENVIAR CORREO V2\EnvioCorreo\Proyecto\obj\Debug\Proyecto.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\012_FUNCIONADAD ENVIAR CORREO V2\EnvioCorreo\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\012_FUNCIONADAD ENVIAR CORREO V2\EnvioCorreo\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\012_FUNCIONADAD ENVIAR CORREO V2\EnvioCorreo\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\012_FUNCIONADAD ENVIAR CORREO V2\EnvioCorreo\Proyecto\obj\Debug\Proyecto.exe
+D:\WorkSpaceAD\YOUTUBE\012_FUNCIONADAD ENVIAR CORREO V2\EnvioCorreo\Proyecto\obj\Debug\Proyecto.pdb
